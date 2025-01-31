@@ -194,7 +194,8 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 
 （自改版）另外需要注意
 
-- 在要求生成代码或询问专业知识时，表达需要明确一点，不然阿罗娜会忽视，并当作日常聊天处理
+- 在要求生成代码或询问专业知识时，表达需要明确一点，不然阿罗娜不会进入问答模式，并当作日常聊天处理
+- 如果发现提出问题没有让阿罗娜进入问答模式，可以尝试说“请详细解答”等，让阿罗娜进入问答模式
 ## 帮助我们
 
 如果你认为我们的阿罗娜有需要改进的地方，请在[issue](https://github.com/ZiChenStudio/ChatGPT-Arona/issues)或[discussion](https://github.com/ZiChenStudio/ChatGPT-Arona/discussions)中指出，我们共同学习、共同进步！
